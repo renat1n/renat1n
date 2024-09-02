@@ -1,4 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙💙
+Meu nome é Renato Sorrentino
+
+Estou estudando na Alura
+
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+Você pode entrar em contato comigo 📫
+
+renatodosreissorrentino@gmail.com
 
 <!--
 **renat1n/renat1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
